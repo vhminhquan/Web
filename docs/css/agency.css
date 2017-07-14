@@ -367,7 +367,7 @@ section h3.section-subheading {
     }
 }
 
-.mydata-heading {
+.service-heading {
     margin: 15px 0;
     text-transform: none;
 }
@@ -665,26 +665,26 @@ section h3.section-subheading {
   justify-content: center;
 }
 
-.note-member {
+.team-member {
     margin-bottom: 50px;
     text-align: center;
 }
 
-.note-member img {
+.team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
 }
 
-.note-member p {
+.team-member p {
     margin-top: 0;
 }
-.note-member h3 {
+.team-member h3 {
     text-transform: none;
     font-weight: 600;
     color: #333;
 }
 
-.note-member h4 {
+.team-member h4 {
     font-size: 16px;
     text-transform: none;
     font-weight: 400;
@@ -692,11 +692,11 @@ section h3.section-subheading {
     margin-bottom: 0px;
 }
 
-.note-member h4 a {
+.team-member h4 a {
     text-transform: none;
 }
 
-.note-member h5 {
+.team-member h5 {
     font-size: 14px;
     text-transform: none;
     font-style: italic;
@@ -705,15 +705,15 @@ section h3.section-subheading {
     margin-bottom: 15px
 }
 
-.note-member .report  {
+.team-member .report  {
     margin-top: 0px;
 }
 
-.note-member h5 a {
+.team-member h5 a {
     text-transform: none;
 }
 
-.note-member ul {
+.team-member ul {
     list-style: none;
     text-align: center;
     margin-top: 15px;
@@ -721,7 +721,7 @@ section h3.section-subheading {
     padding: 0;
 }
 
-.note-bio {
+.team-bio {
     padding: 15px
 }
 
